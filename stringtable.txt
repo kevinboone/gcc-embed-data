@@ -1,0 +1,2 @@
+100 Some helpful text for error 100: blah blah
+101 Some helpful text for error 101: blah blah
